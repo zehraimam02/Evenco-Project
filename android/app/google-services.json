@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "779928669642",
+    "project_id": "project-evenco",
+    "storage_bucket": "project-evenco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779928669642:android:289fffe162f4bc1b409333",
+        "android_client_info": {
+          "package_name": "com.example.evenco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779928669642-1he5argkie7pakug2ncupn75mlqb3ron.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evenco_app",
+            "certificate_hash": "304714195aea5785681ed42053daeeb9096e6c6f"
+          }
+        },
+        {
+          "client_id": "779928669642-b7ge5jqvdo1n44toicm81mjt61nvqadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTyabbBdH2qBtQNyIcaibQ_Kpta0-oxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779928669642-b7ge5jqvdo1n44toicm81mjt61nvqadi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "779928669642-0gj885r7oq3u6gn7d1smbq05dvpihjda.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.evencoApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

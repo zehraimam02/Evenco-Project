@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "project-evenco",
+          "appId": "1:779928669642:android:289fffe162f4bc1b409333",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "project-evenco",
+          "configurations": {
+            "android": "1:779928669642:android:289fffe162f4bc1b409333",
+            "ios": "1:779928669642:ios:6c64467156d88418409333",
+            "web": "1:779928669642:web:c4bbeddb48044ef8409333"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
